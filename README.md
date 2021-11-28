@@ -2,10 +2,12 @@
 
 # Zadanie 2 #
 ![alt text](https://github.com/DenisFromUkraine/Pwcho1Kolomoiets/blob/main/pics/Dockerfile.PNG "Dockerfile")
+
 Dockerfile.
 # Zadanie 3 #
 ## a. docker build -f Dockerfile -t local . ##
 ![alt text](https://github.com/DenisFromUkraine/Pwcho1Kolomoiets/blob/main/pics/docker%20build.PNG "docker build")
+
 Budowanie obrazu za pomocą Dockerfile.
 ## b. docker run -p 2300:1600 -d --rm --name Projekt local ##
 ![alt text](https://github.com/DenisFromUkraine/Pwcho1Kolomoiets/blob/main/pics/docker%20run.PNG "docker run")
