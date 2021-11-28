@@ -26,5 +26,7 @@ Sprawdź informacje o liczbie warstw.
 2. Aby przenieść utworzony obraz do DockerHub, należy w terminalu wprowadzić polecenie: 
   
   $ docker login
+  
   $ docker build -t <your_username>/my-dockerhub-repo .
+  
   $ docker push <your_username>/my-dockerhub-repo
